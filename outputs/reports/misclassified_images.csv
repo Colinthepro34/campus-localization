@@ -1,0 +1,19 @@
+image_path,true_label,predicted_label,confidence
+frame_031.jpg,washroom,canteen,0.8333961963653564
+frame_017.jpg,xaviers hostel wing 2,xaviers hall,0.8183534145355225
+frame_022.jpg,basketball,xaviers hall,0.8174085021018982
+frame_029.jpg,volleyball court,canteen,0.8134369254112244
+frame_043.jpg,hostel building entrance,canteen,0.7742465138435364
+frame_026.jpg,botany garden,canteen,0.7581303715705872
+frame_047.jpg,department of biotechnology,canteen,0.7477161288261414
+frame_042.jpg,hostel building,canteen,0.7027973532676697
+frame_024.jpg,staircase 2,canteen,0.6710669994354248
+frame_019.jpg,exit gate,xaviers hall,0.6624540090560913
+frame_030.jpg,girls washroom,xaviers hall,0.6584820747375488
+frame_038.jpg,staircase,canteen,0.5180278420448303
+frame_040.jpg,woods,canteen,0.4465903341770172
+frame_049.jpg,library,canteen,0.30752864480018616
+frame_046.jpg,xaviers institute of communications,xaviers hall,0.2680371403694153
+frame_025.jpg,xaviers hall,canteen,0.26332321763038635
+frame_050.jpg,xerox,canteen,0.24331825971603394
+frame_023.jpg,xaviers hall gate,main gate 1,0.2168848067522049

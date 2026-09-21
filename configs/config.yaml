@@ -1,0 +1,42 @@
+data:
+  images_dir: "data/raw/images"
+  metadata_csv: "data/raw/metadata.csv"
+  processed_dir: "data/processed"
+  image_size: 224
+  # Fill this in with the actual location labels once the taxonomy is finalized.
+  # Leave empty to auto-derive from metadata.csv at validation time.
+  location_classes: []
+
+split:
+  test_size_fraction: 0.2
+  val_size_fraction: 0.1
+  # If true, split by the `session` column (preferred). If a location has
+  # only one session, it falls back to a stratified random split for that
+  # location only, and this is logged as a warning.
+  session_based: true
+  random_seed: 42
+
+train:
+  batch_size: 32
+  num_workers: 4
+  epochs_baseline: 25
+  epochs_dinov2_frozen: 30
+  epochs_dinov2_finetune: 15
+  lr_baseline: 0.0001
+  lr_dinov2_head: 0.001
+  lr_dinov2_finetune: 0.00001
+  weight_decay: 0.0001
+  early_stopping_patience: 6
+
+model:
+  dinov2_variant: "dinov2_vits14"   # options: dinov2_vits14, dinov2_vitb14, dinov2_vitl14
+  embedding_dim: 384                # 384 for vits14, 768 for vitb14, 1024 for vitl14
+  finetune_unfreeze_last_n_blocks: 2
+
+confidence:
+  softmax_threshold: 0.6
+  margin_threshold: 0.15   # top-1 prob minus top-2 prob, below this = uncertain
+
+paths:
+  checkpoints_dir: "checkpoints"
+  outputs_dir: "outputs"

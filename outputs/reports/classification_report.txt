@@ -1,0 +1,28 @@
+                                     precision    recall  f1-score   support
+
+                         basketball       0.00      0.00      0.00         1
+                      botany garden       0.00      0.00      0.00         1
+                            canteen       0.08      1.00      0.14         1
+                             chapel       1.00      1.00      1.00         1
+        department of biotechnology       0.00      0.00      0.00         1
+                          exit gate       0.00      0.00      0.00         1
+                     girls washroom       0.00      0.00      0.00         1
+                    hostel building       0.00      0.00      0.00         1
+           hostel building entrance       0.00      0.00      0.00         1
+                            library       0.00      0.00      0.00         1
+                        main gate 1       0.50      1.00      0.67         1
+                    office building       1.00      1.00      1.00         1
+                          staircase       0.00      0.00      0.00         1
+                        staircase 2       0.00      0.00      0.00         1
+                   volleyball court       0.00      0.00      0.00         1
+                           washroom       0.00      0.00      0.00         1
+                              woods       0.00      0.00      0.00         1
+                       xaviers hall       0.17      0.50      0.25         2
+                  xaviers hall gate       0.00      0.00      0.00         1
+              xaviers hostel wing 2       0.00      0.00      0.00         1
+xaviers institute of communications       0.00      0.00      0.00         1
+                              xerox       0.00      0.00      0.00         1
+
+                           accuracy                           0.22        23
+                          macro avg       0.12      0.20      0.14        23
+                       weighted avg       0.13      0.22      0.14        23

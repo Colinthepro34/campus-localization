@@ -1,0 +1,51 @@
+image_path,location,floor,session,time_of_day,latitude,longitude
+frame_001.jpg,main gate 1,0,2026-09-09--morning-K,morning,18.9427397,72.8312807
+frame_002.jpg,main gate 1,0,2026-09-09--morning-K,morning,18.9427397,72.8312807
+frame_003.jpg,main gate 1,0,2026-09-09--morning-K,morning,18.9427397,72.8312807
+frame_004.jpg,xaviers hall,0,2026-09-09--morning-R,morning,18.9429992,72.8312772
+frame_005.jpg,xaviers hall,0,2026-09-09--morning-R,morning,18.9429992,72.8312772
+frame_006.jpg,xaviers hall,0,2026-09-09--morning-R,morning,18.9429992,72.8312772
+frame_007.jpg,xaviers hall,0,2026-09-09--morning-R,morning,18.9429992,72.8312772
+frame_008.jpg,xaviers hall,0,2026-09-09--morning-R,morning,18.9429992,72.8312772
+frame_009.jpg,chapel,0,2026-09-09--morning-D,morning,18.9427906,72.8314506
+frame_010.jpg,chapel,0,2026-09-09--morning-D,morning,18.9427906,72.8314506
+frame_011.jpg,chapel,0,2026-09-09--morning-D,morning,18.9427906,72.8314506
+frame_012.jpg,chapel,0,2026-09-09--morning-D,morning,18.9427906,72.8314506
+frame_013.jpg,office building,0,2026-09-09--morning-L,morning,18.9428666,72.8314192
+frame_014.jpg,office building,0,2026-09-09--morning-L,morning,18.9428666,72.8314192
+frame_015.jpg,office building,0,2026-09-09--morning-L,morning,18.9428666,72.8314192
+frame_016.jpg,office building,0,2026-09-09--morning-L,morning,18.9428666,72.8314192
+frame_017.jpg,xaviers hostel wing 2,0,2026-09-09--morning-U,morning,18.9430188,72.8311547
+frame_018.jpg,xaviers hostel wing 2,0,2026-09-09--morning-U,morning,18.9430188,72.8311547
+frame_019.jpg,exit gate,0,2026-09-09--morning-F,morning,18.9430188,72.8311547
+frame_020.jpg,exit gate,0,2026-09-09--morning-F,morning,18.9430188,72.8311547
+frame_021.jpg,basketball,0,2026-09-09--morning-A,morning,18.9430188,72.8311547
+frame_022.jpg,basketball,0,2026-09-09--morning-A,morning,18.9430188,72.8311547
+frame_023.jpg,xaviers hall gate,0,2026-09-09--morning-T,morning,18.9427766,72.8313044
+frame_024.jpg,staircase 2,0,2026-09-09--morning-N,morning,18.9427766,72.8313044
+frame_025.jpg,xaviers hall,0,2026-09-09--morning-S,morning,18.9427766,72.8313044
+frame_026.jpg,botany garden,0,2026-09-09--morning-B,morning,18.9431802,72.8317416
+frame_027.jpg,xaviers hall,0,2026-09-09--morning-S,morning,18.94317823,72.8317739
+frame_028.jpg,xaviers hall,0,2026-09-09--morning-S,morning,18.94317823,72.8317739
+frame_029.jpg,volleyball court,0,2026-09-09--morning-O,morning,18.94311909,72.8317985
+frame_030.jpg,girls washroom,0,2026-09-09--morning-G,morning,18.94312811,72.8317831
+frame_031.jpg,washroom,0,2026-09-09--morning-P,morning,18.94312811,72.8317831
+frame_032.jpg,canteen,0,2026-09-09--morning-C,morning,18.94331772,72.8315647
+frame_033.jpg,canteen,0,2026-09-09--morning-C,morning,18.94331772,72.8315647
+frame_034.jpg,canteen,0,2026-09-09--morning-C,morning,18.94331772,72.8315647
+frame_035.jpg,canteen,0,2026-09-09--morning-C,morning,18.94331772,72.8315647
+frame_036.jpg,canteen,0,2026-09-09--morning-C,morning,18.94331772,72.8315647
+frame_037.jpg,canteen,0,2026-09-09--morning-C,morning,18.94331772,72.8315647
+frame_038.jpg,staircase,0,2026-09-09--morning-M,morning,18.9434367,72.8316252
+frame_039.jpg,woods,0,2026-09-09--morning-Q,morning,18.9433793,72.8320001
+frame_040.jpg,woods,0,2026-09-09--morning-Q,morning,18.9433793,72.8320001
+frame_041.jpg,hostel building,0,2026-09-09--morning-H,morning,18.9434582,72.832133
+frame_042.jpg,hostel building,0,2026-09-09--morning-H,morning,18.9434582,72.832133
+frame_043.jpg,hostel building entrance,0,2026-09-09--morning-I,morning,18.9434658,72.8321609
+frame_044.jpg,xaviers institute of communications,0,2026-09-09--morning-V,morning,18.9427766,72.8313044
+frame_045.jpg,xaviers institute of communications,0,2026-09-09--morning-V,morning,18.9427766,72.8313044
+frame_046.jpg,xaviers institute of communications,0,2026-09-09--morning-V,morning,18.9427766,72.8313044
+frame_047.jpg,department of biotechnology,0,2026-09-09--morning-E,morning,18.9425343,72.8316838
+frame_048.jpg,library,2,2026-09-09--morning-J,morning,18.9427831,72.831201
+frame_049.jpg,library,2,2026-09-09--morning-J,morning,18.9427831,72.831201
+frame_050.jpg,xerox,2,2026-09-09--morning-W,morning,18.9427831,72.831201

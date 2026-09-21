@@ -1,0 +1,5 @@
+{
+  "no_augmentation_val_acc": 0.4166666666666667,
+  "with_augmentation_val_acc": 0.5,
+  "delta": 0.08333333333333331
+}
